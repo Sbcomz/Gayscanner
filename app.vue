@@ -58,6 +58,5 @@ function check() {
 body {
   font-family: 'Kanit', sans-serif;
   background-color: rgb(39, 33, 29);
-  
 }
 </style>
